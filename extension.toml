@@ -1,0 +1,15 @@
+id = "orbital-frame"
+name = "Orbital Frame"
+description = "Dark and light themes inspired by Zone of the Enders orbital frames. Features Anubis, Jehuty, and Nephtis color schemes for an immersive mecha coding experience."
+version = "1.0.0"
+schema_version = 1
+authors = ["meastblue <amalou.massinissa@gmail.com>"]
+repository = "https://github.com/meastblue/orbital-frame-zed"
+
+[themes]
+"Anubis Dark" = "themes/anubis-dark.json"
+"Anubis Light" = "themes/anubis-light.json"
+"Jehuty Dark" = "themes/jehuty-dark.json"
+"Jehuty Light" = "themes/jehuty-light.json"
+"Nephtis Dark" = "themes/nephtis-dark.json"
+"Nephtis Light" = "themes/nephtis-light.json"
